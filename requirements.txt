@@ -1,0 +1,9 @@
+crewai>=0.100.0
+sentence-transformers>=3.0.0
+faiss-cpu
+pypdf>=4.0.0
+numpy
+gspread>=6.0.0
+ddgs
+python-dotenv
+pydantic>=2.0
